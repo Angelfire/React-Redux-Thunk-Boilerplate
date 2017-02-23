@@ -2,7 +2,7 @@
 
 # React/Sass/Redux Boilerplate
 
-Boilerplate and guide for a React/Sass/Redux build.
+Boilerplate and guide for a React/Redux build.
 
 ## Getting Started
 
@@ -23,11 +23,5 @@ Start the development server (changes will now update live in browser)
 
 To view your project, go to: [http://localhost:3000/](http://localhost:3000/)
 
-## Links
-
-- [Donate](https://www.patreon.com/thenewboston)
-- [thenewboston.com](https://thenewboston.com/)
-- [Facebook](https://www.facebook.com/TheNewBoston-464114846956315/)
-- [Twitter](https://twitter.com/bucky_roberts)
-- [Google+](https://plus.google.com/+BuckyRoberts)
-- [reddit](https://www.reddit.com/r/thenewboston/)
+## Credits
+This boilerplate was inspired on [https://github.com/buckyroberts/React-Redux-Boilerplate](buckyroberts) Boilerplate
