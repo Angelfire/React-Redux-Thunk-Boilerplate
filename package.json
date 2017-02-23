@@ -32,7 +32,8 @@
     "webpack": "^1.13.1",
     "webpack-dev-middleware": "^1.6.1",
     "webpack-dev-server": "^1.14.1",
-    "webpack-hot-middleware": "^2.11.0"
+    "webpack-hot-middleware": "^2.11.0",
+    "whatwg-fetch": "^2.0.2"
   },
   "devDependencies": {
     "babel-plugin-react-transform": "^2.0.2",

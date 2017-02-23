@@ -1,16 +1,12 @@
-import React from 'react';
-import UserList from '../containers/user-list';
-import UserDetails from '../containers/user-detail';
-require('../../scss/style.scss');
+import React, { Component } from 'react';
+import ItemList from './ItemList';
 
-const App = () => (
-    <div>
-        <h2>User List</h2>
-        <UserList />
-        <hr />
-        <h2>User Details</h2>
-        <UserDetails />
-    </div>
-);
-
-export default App;
+export default class App extends Component {
+  render() {
+    return (
+      <div>
+        <ItemList />
+      </div>
+    );
+  }
+}
